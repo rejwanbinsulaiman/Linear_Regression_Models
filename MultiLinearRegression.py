@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #importing dataset
-dataset = pd.read_csv('50_Startups.csv')
+dataset = pd.read_csv('50_Startups.csv') ## datasaet is available in the repo
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 4]
 
