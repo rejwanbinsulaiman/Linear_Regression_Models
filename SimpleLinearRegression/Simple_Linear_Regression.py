@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  9 01:48:29 2021
 
-@author: Rizwan
+Rizwan
 """
 
 
